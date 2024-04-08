@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Jag har producerat två sidor som redovisor två olika grejer. En intern(about sidan) och extern sida(his sidan), dessa sidor kan man komma åt med hjälp av toolbar. Dessutom så har texten i appen också bytts och förändrats. **
+Jag har producerat två sidor som redovisor två olika grejer. En intern(about sidan) och extern sida(his sidan), dessa sidor kan man komma åt med hjälp av toolbar. Dessutom så har texten i appen också bytts och förändrats. 
 
 
 ## Följande grundsyn gäller dugga-svar:
